@@ -1,8 +1,18 @@
+
 # bmi_calculator
 
 A new Flutter project.
 
 ## Getting Started
+
+![selim121](https://github.com/selim121/Images/blob/main/Screenshot%202022-11-15%20at%2011.24.28%20PM.png)
+
+![selim121](https://github.com/selim121/Images/blob/main/Screenshot%202022-11-15%20at%2011.25.48%20PM.png)
+
+![selim121](https://github.com/selim121/Images/blob/main/Screenshot%202022-11-15%20at%2011.25.25%20PM.png)
+
+![selim121](https://github.com/selim121/Images/blob/main/Screenshot%202022-11-15%20at%2011.25.03%20PM.png)
+
 
 This project is a starting point for a Flutter application.
 
